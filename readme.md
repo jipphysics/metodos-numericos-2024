@@ -6,8 +6,8 @@
 
 ## Útiles
 
+* [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/login/index.php)
 * [Página oficial de la materia](TODO)
-* [Aula virtual](TODO)
 
 ## Tutoriales
 
