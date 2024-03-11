@@ -2,7 +2,7 @@
 
 ## Anuncios
 
-* TODO
+* 2024-03-12: Primer día de clases.
 
 ## Útiles
 
