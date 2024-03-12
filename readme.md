@@ -6,9 +6,9 @@
 
 ## Salas virtuales
 
-* Juan Perotti [https://meet.google.com/tjp-uypo-zbi](https://meet.google.com/tjp-uypo-zbi)
-* Federico Carrasco []()
-* Alvaro Stanic []()
+* [Juan Perotti](https://meet.google.com/tjp-uypo-zbi)
+* [Federico Carrasco](TODO)
+* [Alvaro Stanic]()
 
 ## Útiles
 
