@@ -27,4 +27,4 @@
 
 ## Clases
 
-* [Clase 1:2024-03-12](https://drive.google.com/file/d/1M-x3HNq-8GiE6t7M4wRoDDy_1ttK5ZQ8/view?usp=sharing)
+* [Clase 1: 2024-03-12](https://drive.google.com/file/d/1M-x3HNq-8GiE6t7M4wRoDDy_1ttK5ZQ8/view?usp=sharing)
