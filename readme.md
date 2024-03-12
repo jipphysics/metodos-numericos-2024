@@ -24,3 +24,7 @@
 
 * [Guía 0: 2024-03-12](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-0-2024.pdf)
 * [Guía 1: 2024-03-12](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-1-2024.ipynb)
+
+## Clases
+
+* [Clase 1:2024-03-12](https://drive.google.com/file/d/1M-x3HNq-8GiE6t7M4wRoDDy_1ttK5ZQ8/view?usp=sharing)
