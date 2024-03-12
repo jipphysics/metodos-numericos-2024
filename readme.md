@@ -4,6 +4,12 @@
 
 * 2024-03-12: Primer día de clases.
 
+## Salas virtuales
+
+* Juan Perotti [https://meet.google.com/tjp-uypo-zbi](https://meet.google.com/tjp-uypo-zbi)
+* Federico Carrasco []()
+* Alvaro Stanic []()
+
 ## Útiles
 
 * [Aula virtual](https://famaf.aulavirtual.unc.edu.ar/login/index.php)
