@@ -28,3 +28,5 @@
 ## Clases
 
 * [Clase 1: 2024-03-12](https://drive.google.com/file/d/1M-x3HNq-8GiE6t7M4wRoDDy_1ttK5ZQ8/view?usp=sharing)
+* [Clase 2: 2024-03-14](PARO-DOCENTE)
+* [Clase 3: 2024-03-19](https://drive.google.com/file/d/17pe2W28s9f4lx7_Z7srL6v4ofTulo2qU/view?usp=sharing)
