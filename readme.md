@@ -8,7 +8,7 @@
 
 * [Juan Perotti](https://meet.google.com/tjp-uypo-zbi)
 * [Federico Carrasco](TODO)
-* [Alvaro Stanic]()
+* [Alvaro Stanic](TODO)
 
 ## Útiles
 
