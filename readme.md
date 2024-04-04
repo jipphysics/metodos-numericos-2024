@@ -32,3 +32,5 @@
 * [Clase 2: 2024-03-14](PARO-DOCENTE)
 * [Clase 3: 2024-03-19](https://drive.google.com/file/d/17pe2W28s9f4lx7_Z7srL6v4ofTulo2qU/view?usp=sharing)
 * [Clase 4: 2024-03-21](https://drive.google.com/file/d/1f6o58eMg8tmDweImw_dEfB8YHh3UiEPs/view?usp=sharing)
+* [Clase 5: 2024-03-26](NO-HAY-GRABACION)
+* [Clase 6: 2024-04-04](https://drive.google.com/file/d/1x0Fn-LyHw8R1Xa_sgu28eLQcKJAda8S3/view?usp=sharing)
