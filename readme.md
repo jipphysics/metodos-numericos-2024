@@ -34,3 +34,4 @@
 * [Clase 4: 2024-03-21](https://drive.google.com/file/d/1f6o58eMg8tmDweImw_dEfB8YHh3UiEPs/view?usp=sharing)
 * [Clase 5: 2024-03-26](NO-HAY-GRABACION)
 * [Clase 6: 2024-04-04](https://drive.google.com/file/d/1x0Fn-LyHw8R1Xa_sgu28eLQcKJAda8S3/view?usp=sharing)
+* [Clase 7: 2024-04-09](https://drive.google.com/file/d/1PWU0VoAcMBRS-y1iP010waQCgU6j1mnl/view?usp=sharing)
