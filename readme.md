@@ -3,6 +3,7 @@
 ## Anuncios
 
 * 2024-03-12: Primer día de clases.
+* 2024-04-15: El jueves 18/04 será el **primer parcial**. Ese día, de 9 a 9:45 hs habrá clase teórica. De 10 a 10:45 hs. será la parte "teórica" del parcial (donde enran los ejercicios de la guia 0, a resolver de manera individual y pueden tener los apuntes de clase) y de 11 hs en adelante será el parcial de la parte computacional (en donde entra hasta la guía 2 completa y pueden usar el código ya desarrollado).
 
 ## Salas virtuales
 
