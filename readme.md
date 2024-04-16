@@ -2,6 +2,7 @@
 
 ## Anuncios
 
+* 2024-04-16: Pequeña actualización del problema 4 de la notebook de la guía 2. La nueva versión aclara que hay que graficar la función para tiempos entre 0 y 5.
 * 2024-04-15: 
   * El **Jueves 18/04** será el **primer parcial**. Ese día, de 9 a 9:45 hs habrá clase teórica. De 10 a 10:45 hs. será la parte "teórica" del parcial (donde enran los ejercicios de la guia 0, a resolver de manera individual y pueden tener
   * El **Miércoles 17/04** habrá **clase de consulta** del práctico de la comisión de Julia a las 19hs. Simultaneamente, será de manera presencial en el Lab 17 y virtual en la sala de Juan.
