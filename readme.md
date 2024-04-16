@@ -32,7 +32,7 @@
 * [Guía 1: 2024-03-12](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-1-2024.ipynb)
 * [Guía 2: 2024-04-04](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-2-2024.ipynb)
 
-## Clases
+## Videos de las clases
 
 * [Clase 1: 2024-03-12](https://drive.google.com/file/d/1M-x3HNq-8GiE6t7M4wRoDDy_1ttK5ZQ8/view?usp=sharing)
 * [Clase 2: 2024-03-14](PARO-DOCENTE)
@@ -44,3 +44,4 @@
 * [Clase 8: 2024-04-11](https://drive.google.com/file/d/1swsZzee-1pN12eL4yjh3t3eUNb7t1IB1/view?usp=sharing)
 * [Clase de consulta 1: 2024-04-15](https://drive.google.com/file/d/1qQN9tM8PzsVtf-OFr4oyvbEjpeudKXlt/view?usp=sharing)
 * [Clase 9: 2024-04-16](https://drive.google.com/file/d/1rjNLJQ4lNwY-FZ4snyMDzX8KjKNkm8pB/view?usp=sharing)
+* [Clase de consulta 2: 2024-04-17](TODO)
