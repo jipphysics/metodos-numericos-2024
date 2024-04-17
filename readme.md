@@ -13,7 +13,7 @@
 ## Salas virtuales
 
 * [Juan Perotti](https://meet.google.com/tjp-uypo-zbi)
-* [Federico Carrasco](TODO)
+* [Federico Carrasco](https://meet.google.com/oye-rgjt-kjc)
 * [Alvaro Stanic](TODO)
 
 ## Útiles
