@@ -45,3 +45,4 @@
 * [Clase de consulta 1: 2024-04-15](https://drive.google.com/file/d/1qQN9tM8PzsVtf-OFr4oyvbEjpeudKXlt/view?usp=sharing)
 * [Clase 9: 2024-04-16](https://drive.google.com/file/d/1rjNLJQ4lNwY-FZ4snyMDzX8KjKNkm8pB/view?usp=sharing)
 * [Clase de consulta 2: 2024-04-17](https://drive.google.com/file/d/1VC7Wiam64KuILc0jwO7r6LbewedFl4oL/view?usp=sharing)
+* [Clase 10: 2024-04-18, Parcial 1](PARCIAL)
