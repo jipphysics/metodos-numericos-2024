@@ -2,6 +2,7 @@
 
 ## Anuncios
 
+* 2024-04-30: Pequeña actualización del problema 4 de la notebook de la guía 3. La nueva versión menciona que hay que usar las funciones del problema 3.
 * 2024-04-16: Pequeña actualización del problema 4 de la notebook de la guía 2. La nueva versión aclara que hay que graficar la función para tiempos entre 0 y 5.
 * 2024-04-15: 
   * El **Jueves 18/04** será el **primer parcial**. Ese día, de 9 a 10:45 hs. será la parte "teórica" del parcial (donde entran los ejercicios de la guia 0, a resolver de manera individual y pueden tener los apuntes de clase) y de 11 hs en adelante será el parcial de la parte computacional (en donde entra hasta la guía 2 completa y pueden usar el código ya desarrollado).
@@ -48,3 +49,4 @@
 * [Clase de consulta 2: 2024-04-17](https://drive.google.com/file/d/1VC7Wiam64KuILc0jwO7r6LbewedFl4oL/view?usp=sharing)
 * [Clase 10: 2024-04-18, Parcial 1](PARCIAL-1)
 * [Clase 11: 2024-04-25](https://drive.google.com/file/d/1lbJn-3OueoxuV-aBm0agSlDFP6O-vi0z/view?usp=sharing)
+* [Clase 12: 2024-04-30](https://drive.google.com/file/d/1fh1yRaTsK7ZrKBMfnVXZIh9eQyFJ1jBr/view?usp=sharing)
