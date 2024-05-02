@@ -37,6 +37,7 @@
 
 ## Videos de las clases
 
+* [Clase 13: 2024-05-02](https://drive.google.com/file/d/1XPYnsgyBF-4i_uZNFuo4I5AyjQgUpXBe/view?usp=sharing)
 * [Clase 12: 2024-04-30](https://drive.google.com/file/d/1fh1yRaTsK7ZrKBMfnVXZIh9eQyFJ1jBr/view?usp=sharing)
 * [Clase 11: 2024-04-25](https://drive.google.com/file/d/1lbJn-3OueoxuV-aBm0agSlDFP6O-vi0z/view?usp=sharing)
 * [Clase 10: 2024-04-18, Parcial 1](PARCIAL-1)
