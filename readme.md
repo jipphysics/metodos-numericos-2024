@@ -8,7 +8,6 @@
   * El **Jueves 18/04** será el **primer parcial**. Ese día, de 9 a 10:45 hs. será la parte "teórica" del parcial (donde entran los ejercicios de la guia 0, a resolver de manera individual y pueden tener los apuntes de clase) y de 11 hs en adelante será el parcial de la parte computacional (en donde entra hasta la guía 2 completa y pueden usar el código ya desarrollado).
   * El **Miércoles 17/04** habrá **clase de consulta** del práctico de la comisión de Julia a las 19hs. Será de manera virtual en la sala de Juan.
   * El **Lunes 15/04** habrá **clase de consulta** del práctico de la comisión de Julia a las 19hs. Simultaneamente, será de manera presencial en el Lab 17 y virtual en la sala de Juan.
- 
 * 2024-03-12: Primer día de clases.
 
 ## Salas virtuales
