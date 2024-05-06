@@ -28,6 +28,7 @@
 
 ## Guías
 
+* [Guía 5: 2024-05-07, Derivadas](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-5-2024.ipynb)
 * [Guía 4: 2024-05-02, Cuadrados mínimos](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-4-2024.ipynb)
 * [Guía 3: 2024-04-23, Interpolación polinomial](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-3-2024.ipynb)
 * [Guía 2: 2024-04-04, Raíces](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-2-2024.ipynb)
