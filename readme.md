@@ -2,6 +2,9 @@
 
 ## Anuncios
 
+
+* El **Jueves 09/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 16hs. Será de manera virtual en la sala de Federico.
+* El **Viernes 10/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Federico.
 * 2024-04-30: Pequeña actualización del problema 4 de la notebook de la guía 3. La nueva versión menciona que hay que usar las funciones del problema 3.
 * 2024-04-16: Pequeña actualización del problema 4 de la notebook de la guía 2. La nueva versión aclara que hay que graficar la función para tiempos entre 0 y 5.
 * 2024-04-15: 
