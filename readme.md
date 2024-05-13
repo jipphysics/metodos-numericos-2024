@@ -3,6 +3,8 @@
 ## Anuncios
 
 
+* 2024-05-13: La notebook del **2do parcial** ya está en el repositorio. Recordar que la **fecha de entrega** es el próximo jueves 16 de mayo del 2024 a las 08:59:59 hs (AM).
+* El **Lunes 13/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Juan.
 * El **Jueves 09/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 16hs. Será de manera virtual en la sala de Federico.
 * El **Viernes 10/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Federico.
 * 2024-04-30: Pequeña actualización del problema 4 de la notebook de la guía 3. La nueva versión menciona que hay que usar las funciones del problema 3.
@@ -28,6 +30,10 @@
 
 * Think in Julia en español: [https://introajulia.org/](https://introajulia.org/).
 * Curso de extensión Introducción a la programación en Julia con aplicaciones científicas, FAMAF (2022): [https://github.com/jipphysics/curso-extension-julia-famaf-2022](https://github.com/jipphysics/curso-extension-julia-famaf-2022).
+
+## Parcial
+
+* [Parcial 2: 2024-05-13](https://github.com/jipphysics/metodos-numericos-2024/blob/main/parcial-2-2024.ipynb)
 
 ## Guías
 
