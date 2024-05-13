@@ -3,8 +3,8 @@
 ## Anuncios
 
 
-* 2024-05-13: La notebook del **2do parcial** ya está en el repositorio. Recordar que la **fecha de entrega** es el próximo jueves 16 de mayo del 2024 a las 08:59:59 hs (AM).
 * El **Lunes 13/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Juan.
+* 2024-05-13: La notebook del **2do parcial** ya está en el repositorio. Recordar que la **fecha de entrega** es el próximo jueves 16 de mayo del 2024 a las 08:59:59 hs (AM).
 * El **Jueves 09/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 16hs. Será de manera virtual en la sala de Federico.
 * El **Viernes 10/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Federico.
 * 2024-04-30: Pequeña actualización del problema 4 de la notebook de la guía 3. La nueva versión menciona que hay que usar las funciones del problema 3.
@@ -37,6 +37,7 @@
 
 ## Guías
 
+* [Guía 6: 2024-05-13, Integración](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-6-2024.ipynb)
 * [Guía 5: 2024-05-07, Derivadas](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-5-2024.ipynb)
 * [Guía 4: 2024-05-02, Cuadrados mínimos](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-4-2024.ipynb)
 * [Guía 3: 2024-04-23, Interpolación polinomial](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-3-2024.ipynb)
