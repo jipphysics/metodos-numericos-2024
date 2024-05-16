@@ -47,6 +47,7 @@
 
 ## Videos de las clases
 
+* [Clase 15: 2024-05-16](https://drive.google.com/file/d/1nOq6dcBKHUiAUHySzyGh5NN4CGajed7s/view?usp=sharing)
 * [Clase de consulta: 2024-05-13](https://drive.google.com/file/d/1F1B0ez39U4cQ9279rGb5iTi0gQYKXfeE/view?usp=sharing)
 * [Clase 14: 2024-05-07](https://drive.google.com/file/d/1BAxWa93x4lMvngpcAnscpuafWwt21Fes/view?usp=sharing)
 * [Clase 13: 2024-05-02](https://drive.google.com/file/d/1XPYnsgyBF-4i_uZNFuo4I5AyjQgUpXBe/view?usp=sharing)
