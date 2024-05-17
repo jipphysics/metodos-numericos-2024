@@ -3,6 +3,7 @@
 ## Anuncios
 
 
+* 2024-05-17: La semana que viene (Lunes 20 al Viernes 24) no habrá clases por semana de Mayo.
 * El **Lunes 13/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Juan.
 * 2024-05-13: La notebook del **2do parcial** ya está en el repositorio. Recordar que la **fecha de entrega** es el próximo jueves 16 de mayo del 2024 a las 08:59:59 hs (AM).
 * El **Jueves 09/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 16hs. Será de manera virtual en la sala de Federico.
