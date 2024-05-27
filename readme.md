@@ -37,6 +37,7 @@
 
 ## Guías
 
+* [Guía 6: 2024-05-13, EDOs](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-7-2024.ipynb)
 * [Guía 6: 2024-05-13, Integración](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-6-2024.ipynb)
 * [Guía 5: 2024-05-07, Derivadas](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-5-2024.ipynb)
 * [Guía 4: 2024-05-02, Cuadrados mínimos](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-4-2024.ipynb)
