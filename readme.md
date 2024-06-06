@@ -2,6 +2,7 @@
 
 ## Anuncios
 
+* 2024-06-06: El **Lunes 10 de Junio** habrá **clase de consulta** a las 18:00 en la **sala virtual**.
 * 2024-05-28: El 3er parcial es el Martes 11 de Junio (2024-06-11) y el recuperatorio el Jueves 18 de Junio (2024-06-18).
 * 2024-05-17: La semana que viene (Lunes 20 al Viernes 24) no habrá clases por **semana de Mayo**.
 * El **Lunes 13/05** habrá **clase de consulta** del práctico de la comisión de Julia a las 18hs. Será de manera virtual en la sala de Juan.
@@ -49,6 +50,7 @@
 
 ## Videos de las clases
 
+* [Clase 19: 2024-06-06](https://drive.google.com/file/d/1rzb5iTOQ1FRJukNDFfi3TKPfmXK8OM4s/view?usp=sharing)
 * [Clase 18: 2024-06-04](https://drive.google.com/file/d/1h6wnzT4NVHZuttVQqhPrSvjz0pWrrWo6/view?usp=sharing)
 * [Clase 17: 2024-05-30](https://drive.google.com/file/d/1n3TOJmaUcqUrO-LmFKwUM2d_ei0hhzia/view?usp=sharing)
 * [Clase 16: 2024-05-28](https://drive.google.com/file/d/1x0utRcRUTNaKwwap_jy-fQcsiHLNvc6P/view?usp=sharing)
