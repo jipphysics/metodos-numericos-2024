@@ -50,6 +50,7 @@
 
 ## Videos de las clases
 
+* [Clase de consulta: 2024-06-10](https://drive.google.com/file/d/1cujNYXaq6GeXQRl3RdQBOFAztIZMIxBz/view?usp=sharing)
 * [Clase 19: 2024-06-06](https://drive.google.com/file/d/1rzb5iTOQ1FRJukNDFfi3TKPfmXK8OM4s/view?usp=sharing)
 * [Clase 18: 2024-06-04](https://drive.google.com/file/d/1h6wnzT4NVHZuttVQqhPrSvjz0pWrrWo6/view?usp=sharing)
 * [Clase 17: 2024-05-30](https://drive.google.com/file/d/1n3TOJmaUcqUrO-LmFKwUM2d_ei0hhzia/view?usp=sharing)
