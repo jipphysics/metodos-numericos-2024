@@ -2,6 +2,7 @@
 
 ## Anuncios
 
+* 2024-06-15: El **Lunes 17 de Junio** habrá **clase de consulta** a las 18:00 en la **sala virtual**.
 * 2024-06-06: El **Lunes 10 de Junio** habrá **clase de consulta** a las 18:00 en la **sala virtual**.
 * 2024-05-28: El 3er parcial es el Martes 11 de Junio (2024-06-11) y el recuperatorio el Jueves 18 de Junio (2024-06-18).
 * 2024-05-17: La semana que viene (Lunes 20 al Viernes 24) no habrá clases por **semana de Mayo**.
@@ -32,10 +33,6 @@
 
 * Think in Julia en español: [https://introajulia.org/](https://introajulia.org/).
 * Curso de extensión Introducción a la programación en Julia con aplicaciones científicas, FAMAF (2022): [https://github.com/jipphysics/curso-extension-julia-famaf-2022](https://github.com/jipphysics/curso-extension-julia-famaf-2022).
-
-## Parcial
-
-* [Parcial 2: 2024-05-13](https://github.com/jipphysics/metodos-numericos-2024/blob/main/parcial-2-2024.ipynb)
 
 ## Guías
 
