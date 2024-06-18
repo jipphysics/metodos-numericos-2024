@@ -36,7 +36,7 @@
 
 ## Parciales
 
-* [Parcial 3, recuperatorio: 2024-06-18]()
+* [Parcial 3, recuperatorio: 2024-06-18](https://github.com/jipphysics/metodos-numericos-2024/blob/main/parcial-3-2024-recuperatorio.ipynb)
 
 ## Guías
 
