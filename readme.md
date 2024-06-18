@@ -34,6 +34,10 @@
 * Think in Julia en español: [https://introajulia.org/](https://introajulia.org/).
 * Curso de extensión Introducción a la programación en Julia con aplicaciones científicas, FAMAF (2022): [https://github.com/jipphysics/curso-extension-julia-famaf-2022](https://github.com/jipphysics/curso-extension-julia-famaf-2022).
 
+## Parciales
+
+* [Parcial 3, recuperatorio: 2024-06-18]()
+
 ## Guías
 
 * [Guía 7: 2024-05-28, EDOs](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-7-2024.ipynb)
