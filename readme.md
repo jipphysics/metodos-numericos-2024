@@ -2,6 +2,7 @@
 
 ## Anuncios
 
+* 2024-06-19: Subimos una **guia 8** de Algebra Lineal, para quien quiera jugar un poco.
 * 2024-06-15: El **Lunes 17 de Junio** habrá **clase de consulta** a las 18:00 en la **sala virtual**.
 * 2024-06-06: El **Lunes 10 de Junio** habrá **clase de consulta** a las 18:00 en la **sala virtual**.
 * 2024-05-28: El 3er parcial es el Martes 11 de Junio (2024-06-11) y el recuperatorio el Jueves 18 de Junio (2024-06-18).
@@ -40,6 +41,7 @@
 
 ## Guías
 
+* [Guía 8: 2024-06-19, Algebra lineal](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-8-2024.ipynb)
 * [Guía 7: 2024-05-28, EDOs](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-7-2024.ipynb)
 * [Guía 6: 2024-05-13, Integración](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-6-2024.ipynb)
 * [Guía 5: 2024-05-07, Derivadas](https://github.com/jipphysics/metodos-numericos-2024/blob/main/guia-5-2024.ipynb)
